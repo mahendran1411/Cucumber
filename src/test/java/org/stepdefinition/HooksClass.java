@@ -26,6 +26,6 @@ public class HooksClass extends BaseClass{
 		saveScreenShot(fileName);
 closeEdge();
 System.out.println("Hooks After Executed");
-
+System.out.println("Project Success");
 }
 }

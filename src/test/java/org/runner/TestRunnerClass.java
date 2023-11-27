@@ -17,6 +17,6 @@ public class TestRunnerClass extends JVMReport {
 @AfterClass
 public static void smartSkillsTechnologies() {
 	generateJvmReport(System.getProperty("user.dir")+"\\target\\Report\\login.json");
-
+	
 }
 }

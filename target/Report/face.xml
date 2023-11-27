@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="6" time="95.326418">
-<testcase classname="Validate the forgotten password functionality" name="Validate the forgotton with invalid mobilenumber" time="10.460212">
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="6" time="81.334271">
+<testcase classname="Validate the forgotten password functionality" name="Validate the forgotton with invalid mobilenumber" time="10.383132">
 <system-out><![CDATA[When User should click the forgotten password link..........................passed
 And User should input invalid mobilenumber on the textbox...................passed
 And User should click the search button.....................................passed
 Then User should navigate to recover page...................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Validate the login Functionality of Facebook Page" name="Validate the login with invalid username and invalid password" time="19.342341">
+<testcase classname="Validate the login Functionality of Facebook Page" name="Validate the login with invalid username and invalid password" time="19.491484">
 <system-out><![CDATA[When User should input invalid username and invalid passworD in the textbox.passed
 And User should click the login button......................................passed
 And User should print the title of page.....................................passed
 And User should print the current url of my page............................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Validate the login Functionality of Facebook Page" name="Validate the login with valid username and invalid password" time="9.08311">
+<testcase classname="Validate the login Functionality of Facebook Page" name="Validate the login with valid username and invalid password" time="9.148462">
 <system-out><![CDATA[When User should input valid username and invalid password in the textbox...passed
 And User should click the login button......................................passed
 And User should print the title of page.....................................passed
@@ -22,21 +22,21 @@ And User should print the current url of my page............................pass
 Then User should navigate to incorrect credential page......................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Validate the login Functionality of Facebook Page" name="Validate the login with invalid username and valid password" time="19.830999">
+<testcase classname="Validate the login Functionality of Facebook Page" name="Validate the login with invalid username and valid password" time="8.970536">
 <system-out><![CDATA[When User should input invalid username "Apple" and valid password"Greens" in  the textbox.passed
 And User should click the login button......................................passed
 And User should print the title of page.....................................passed
 And User should print the current url of my page............................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Validate the login Functionality of Facebook Page" name="Validate the login with invalid username and valid password 2" time="24.258027">
+<testcase classname="Validate the login Functionality of Facebook Page" name="Validate the login with invalid username and valid password 2" time="21.309674">
 <system-out><![CDATA[When User should input invalid username "Orange" and valid password"Yellow" in  the textbox.passed
 And User should click the login button......................................passed
 And User should print the title of page.....................................passed
 And User should print the current url of my page............................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Validate the login Functionality of Facebook Page" name="Validate the login with invalid username and valid password 3" time="12.351729">
+<testcase classname="Validate the login Functionality of Facebook Page" name="Validate the login with invalid username and valid password 3" time="12.030983">
 <system-out><![CDATA[When User should input invalid username "Grapes" and valid password"Black" in  the textbox.passed
 And User should click the login button......................................passed
 And User should print the title of page.....................................passed
